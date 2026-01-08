@@ -13,7 +13,6 @@ public class NumArray {
     }
 
     public int sumRange(int left, int right) {
-        int n = nums.length;
         if (left == 0) {
             return nums[right];
         }
