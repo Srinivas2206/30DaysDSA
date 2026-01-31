@@ -1,6 +1,6 @@
 package Day03;
 
-public class pivotIndex {
+public class PivotIndex {
     public int pivotIndex(int[] nums) {
         int n = nums.length;
         int totalSum = 0;
